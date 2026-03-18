@@ -34,10 +34,10 @@ for i in range(1,a+1):
 
 ```
 ### OUTPUT
-```
-<img width="717" height="674" alt="image" src="https://github.com/user-attachments/assets/5deb748d-3fe8-4ec5-a7ea-8f4e5fb54e97" />
 
-```
+<img width="717" height="674" alt="image" src="https://github.com/user-attachments/assets/3395b06d-a6b4-4be9-9e14-7673de146427" />
+
+
 ### RESULT
 ```
 Thus the Python program to print n natural numbers using a for loop was executed successfully and the output was verified.
